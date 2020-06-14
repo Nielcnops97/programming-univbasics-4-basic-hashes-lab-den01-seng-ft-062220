@@ -3,7 +3,7 @@ def new_hash
 end
 
 def my_hash
-   Hash.new
+   { :sport => "running" }
 end
 
 def pioneer
